@@ -12,8 +12,6 @@ A IA_Base_Censo é uma inteligência artificial capaz de analisar dados do IBGE 
 - Sklearning.model_selection
 - Pickle
 
-## Os modelos de aprendizagem utilizados são o Bayseano, Arvore de Decisão, Random Forest, KNN(K-Nearest Neighbors), Regressão Logistica, Orange(Oner/regras) e Majority Learning.
-
 # Score
 ### Naive Bayseano:
 - 47.67%
@@ -29,3 +27,5 @@ A IA_Base_Censo é uma inteligência artificial capaz de analisar dados do IBGE 
 - 80.70%
 ### Majority Learning
 - 75.91%
+### SVM
+- 85.07%
